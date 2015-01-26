@@ -10,7 +10,7 @@ var users = require('./routes/users');*/
 //var util = require('./routes/util/vo');
 var routes = require('./routes/index');
 
-var app = express();
+var app = express();   // f
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
